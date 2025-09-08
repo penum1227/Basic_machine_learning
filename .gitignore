@@ -3,3 +3,7 @@
 __pycache__
 .env
 data/
+L_eddie_modeling.py
+L_eddie_preprocess.py
+
+
